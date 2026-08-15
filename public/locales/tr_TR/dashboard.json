@@ -56,7 +56,7 @@
     "noScopes": "Tanımlanmış kapsam yok",
     "enabled": "Etkin",
     "disabled": "Devre dışı",
-    "totalGrants": "{{count}} hibeleri",
+    "totalGrants": "{{count}} hibe",
     "enableClient": "OAuth Uygulamasını Etkinleştir",
     "enableClientDes": "Devre dışı bırakıldığında bu OAuth uygulaması kimlik doğrulama için kullanılamaz.",
     "clientName": "Uygulama Adı",
