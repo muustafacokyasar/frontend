@@ -329,7 +329,7 @@
     "delete": "Sil",
     "moreActions": "Daha fazla işlem",
     "refresh": "Yenile",
-    "createArchive": "Arşiv dosyası oluştur",
+    "createArchive": "Zip arşivi oluştur",
     "resetThumbnail": "Bozuk küçük resmi sıfırla",
     "resetThumbnailRequested": "Küçük resmin sıfırlanması istendi.",
     "noFileCanResetThumbnail": "Küçük resim sıfırlama için kullanılabilir dosya yok.",
