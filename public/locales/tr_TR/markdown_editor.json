@@ -3,7 +3,7 @@
     "title": "Belgenin ön maddesini düzenleyin",
     "key": "Anahtar",
     "value": "Değer",
-    "addEntry": "Giriş ekle"
+    "addEntry": "Ekle"
   },
   "dialogControls": {
     "save": "Kaydet",
@@ -98,7 +98,7 @@
   "admonitions": {
     "note": "Not",
     "tip": "İpucu",
-    "danger": "Tehlike",
+    "danger": "Uyarı",
     "info": "Bilgi",
     "caution": "Dikkat",
     "changeType": "Uyarı türünü seçin",
