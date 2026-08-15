@@ -1148,7 +1148,7 @@
     "encryptedFile": "Şifrelenmiş dosyalar"
   },
   "node": {
-    "slave": "köle",
+    "slave": "slave",
     "master": "master",
     "noCapabilities": "Hiçbir özellik etkin değil.",
     "active": "Aktif",
@@ -1165,7 +1165,7 @@
     "serverDes": "Düğüm iletişimi için kullanılan uç nokta. Dosyaları bu düğümde depolamak istiyorsanız bu adres, dosya yüklemeleri için kullanıcı tarafına da gösterilecektir.",
     "loadBalancerRankDes": "Bu düğüm için bir yük dengeleme ağırlığı belirtin; değer bir tam sayıdır. Değer ne kadar yüksek olursa, seçilme olasılığı da o kadar yüksek olur.",
     "loadBalancerRank": "Yük dengeleme ağırlığı",
-    "slaveSecret": "Köle sırrı",
+    "slaveSecret": "Slave sırrı",
     "slaveSecretDes": "Ana düğüm ile yardımcı düğüm iletişimi için kullanılan sır. Yardımcı düğüm yapılandırma dosyasının <1>Slave</1> bölümündeki <1>Secret</1> ile tutarlı olması gerekir.",
     "testNode": "Düğüm iletişimini test edin",
     "testNodeSuccess": "Düğüm başarıyla iletişim kurar.",
@@ -1209,7 +1209,7 @@
     "storeFiles": "Dosyaları saklayın",
     "storeFilesDes": "Kullanıcı dosyalarını depolamak için bu düğümü kullanın.",
     "storeFilesHint": "Bu düğümü depolama politikaları için kullanmak istiyorsanız lütfen bir ikincil depolama politikası oluşturun ve bu düğümü seçin.",
-    "runCrWithConfig": "Yukarıdaki dosyayı <0>config.ini</0> dosyası olarak kaydedin ve Cloudreve'i şu dosyayla başlatın: <0>./cloudreve -c config.ini</0>. Bir köle Cloudreve örneği birden fazla Cloudreve ana düğümüne hizmet verebilir; bu köle düğümü tüm ana düğümlere ekleyin ve sırrı aynı tutun.",
+    "runCrWithConfig": "Yukarıdaki dosyayı <0>config.ini</0> dosyası olarak kaydedin ve Cloudreve'i şu dosyayla başlatın: <0>./cloudreve -c config.ini</0>. Bir Slave Cloudreve örneği birden fazla Cloudreve ana düğümüne hizmet verebilir; bu slave düğümü tüm ana düğümlere ekleyin ve sırrı aynı tutun.",
     "inputServer": "Düğümün uç noktasını girin:",
     "testButton": "İletişimin başarılı olup olmadığını test etmek için aşağıdaki butona tıklayabilirsiniz.",
     "hostHeaderHint": "İmza hatası varsa lütfen düğümün önündeki ters proxy'nin <0>Host</0> başlığını geçip geçmediğini kontrol edin.",
