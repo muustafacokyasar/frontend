@@ -1155,7 +1155,7 @@
     "suspended": "Askıya alındı",
     "deleteNodeConfirmation": "{{name}} düğümünü silmek istediğinizden emin misiniz?",
     "editNode": "{{node}} düğümünü düzenleyin",
-    "thisIsMasterNodes": "Geçerli siteye hizmet veren bir ana düğümü düzenliyorsunuz.",
+    "thisIsMasterNodes": "Geçerli siteyede kullanılan bir düğümü düzenliyorsunuz.",
     "enableNode": "Düğümü etkinleştir",
     "enableNodeDes": "Etkinleştirildikten sonra düğüm, etkinleştirilen özellikleri kabul edecek ve işleyecektir.",
     "name": "İsim",
